@@ -4,7 +4,7 @@ import java.nio.file.*;
 public class Main {
 
   public static void main(String[] args) {
-    String diretorio = "arquivos_txt";
+    String diretorio = "../arquivos_txt";
     String nomeBuscado = "Brendan Mckenzie";
 
     long inicio = System.nanoTime();
